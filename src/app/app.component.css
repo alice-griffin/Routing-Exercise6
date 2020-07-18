@@ -1,0 +1,15 @@
+nav {
+    background-color: black;
+    overflow: hidden;
+    text-align: center; 
+    line-height: 40px; 
+    align-items: center;
+}
+
+nav a {
+    color: lightskyblue;
+    font-size: 16px;
+    text-decoration: none;
+    padding: 14px 16px;
+    text-align: center; 
+}

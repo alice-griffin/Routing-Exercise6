@@ -1,0 +1,21 @@
+.cat-container {
+    display: flex; 
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 50px;  
+}
+
+img {
+    align-self: center; 
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    width: auto;
+    height: 400px; 
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
